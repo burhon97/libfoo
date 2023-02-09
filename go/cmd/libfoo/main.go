@@ -4,7 +4,7 @@ import "C"
 
 // other imports should be seperate from the special Cgo import
 import (
-    "rogchap.com/libfoo/foo"
+    "github.com/burhon97/libfoo/foo"
 )
 
 //export reverse
